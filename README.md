@@ -6,6 +6,6 @@ An interactive web application for Iris dataset that lets you :
 - Hyperparameter tuning
 - Predict with your custom inputs
 
-## Application developed using [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]() and deployed on ![Heroku](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat)
+## Application developed using [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://iriswebbapp.herokuapp.com/) and deployed on ![Heroku](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat)
 
 
