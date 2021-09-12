@@ -1,4 +1,4 @@
-# Iris-EDA-Web Application ([Link](http://iriswebbapp.herokuapp.com))
+# Iris-EDA-Web Application ([link](http://iriswebbapp.herokuapp.com))
 An interactive web application for Iris dataset that lets you :
 - Explore and analyze the data
 - Visualise the data
